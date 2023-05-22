@@ -1,0 +1,15 @@
+C:\Users\Tomi\source\repos\operatorok\operatorok\bin\Debug\net6.0\operatorok.exe
+C:\Users\Tomi\source\repos\operatorok\operatorok\bin\Debug\net6.0\operatorok.deps.json
+C:\Users\Tomi\source\repos\operatorok\operatorok\bin\Debug\net6.0\operatorok.runtimeconfig.json
+C:\Users\Tomi\source\repos\operatorok\operatorok\bin\Debug\net6.0\operatorok.dll
+C:\Users\Tomi\source\repos\operatorok\operatorok\bin\Debug\net6.0\operatorok.pdb
+C:\Users\Tomi\source\repos\operatorok\operatorok\obj\Debug\net6.0\operatorok.csproj.AssemblyReference.cache
+C:\Users\Tomi\source\repos\operatorok\operatorok\obj\Debug\net6.0\operatorok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\source\repos\operatorok\operatorok\obj\Debug\net6.0\operatorok.AssemblyInfoInputs.cache
+C:\Users\Tomi\source\repos\operatorok\operatorok\obj\Debug\net6.0\operatorok.AssemblyInfo.cs
+C:\Users\Tomi\source\repos\operatorok\operatorok\obj\Debug\net6.0\operatorok.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\source\repos\operatorok\operatorok\obj\Debug\net6.0\operatorok.dll
+C:\Users\Tomi\source\repos\operatorok\operatorok\obj\Debug\net6.0\refint\operatorok.dll
+C:\Users\Tomi\source\repos\operatorok\operatorok\obj\Debug\net6.0\operatorok.pdb
+C:\Users\Tomi\source\repos\operatorok\operatorok\obj\Debug\net6.0\operatorok.genruntimeconfig.cache
+C:\Users\Tomi\source\repos\operatorok\operatorok\obj\Debug\net6.0\ref\operatorok.dll
